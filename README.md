@@ -1,4 +1,4 @@
-# My first React App
+# My first React App - To-Do List
 
 > Based on React JS Crash Course Tutorial https://www.youtube.com/watch?v=sBws8MSXN7A&list=WL&index=190&t=0s
 
